@@ -2,7 +2,7 @@
   "name": "template-reels-t06-bicara-sisipan",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render T06Bicara out/video.mp4",

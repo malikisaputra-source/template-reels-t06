@@ -1,5 +1,5 @@
 // Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id
-// Lisensi MIT + syarat kredit-maliki (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
+// Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat LICENSE): kredit wajib tetap ada, tidak untuk diperjualbelikan.
 // T06 v2 · Bicara + Sisipan — mengikuti ritme reel acuan (podcast + cut-in) per detik (9 Nov 2026).
 // Pola: wajah bicara penuh layar (SLOT video rekaman HP), takarir 1–2 kata putih kapital di tengah-bawah;
 // tiap 2–4 dtk dipotong sisipan: (a) layar terbelah: kartu chat atas + wajah bawah, (b) daftar konektor app gelap,
